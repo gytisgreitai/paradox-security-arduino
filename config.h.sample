@@ -1,0 +1,11 @@
+#define WIFI_SSID "SET_SSID_HERE"
+#define WIFI_PASSWORD "SET_WIFI_PASSWORD_HERE"
+#define WIFI_RECEIVER_IP "1.1.1.1.1"
+#define WIFI_RECEIVER_PORT 12345
+#define PHONE_NUMBER "YOUR_PHONE_NUMBER_HERE"
+const String SECURITY_ZONE_NAMES[] = {
+ "None",
+ "Add your zones",
+ "Into this array"
+};
+
